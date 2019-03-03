@@ -1,6 +1,6 @@
  
 function(){ 
-  var a, c;
+  var a, c, b;
   
   return true;
 }
