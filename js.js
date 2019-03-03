@@ -1,4 +1,6 @@
+ 
 function(){ 
-  var a;
+  var a, c;
+  
   return true;
 }
